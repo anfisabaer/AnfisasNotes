@@ -1,1 +1,8 @@
-anfisa
+Source: https://www.youtube.com/watch?v=wpISo9TNjfU
+Git: Version control system.
+   Git  allows you to track your changes (always having a state tracking exactyly what changes were made any time.)
+   Is a historial backup(Save as Button)- can keep a previous version nd revert to if you need to while still copying 
+   and then making changes on top of that previous version. 
+
+
+GitHub: Hosted Git
